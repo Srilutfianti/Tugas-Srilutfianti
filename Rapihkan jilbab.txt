@@ -1,3 +1,4 @@
 - Atur jilbab sesuai kenyamanan
 - Atur sisi kanan dan kiri bagian jilbab
 - Tambahkan pentul jika diperlukan 
+- Hati-hati dalam memasang jarum pentul
